@@ -1,2 +1,2 @@
 # flutter
-Flutter projects
+Bu depoda Flutter ile yaptığım örnek uygulamarı bulabilirsiniz.. 
